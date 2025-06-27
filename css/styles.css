@@ -63,17 +63,16 @@ body {
 
 .button-primary {
     color: #FFFFFF;
-    background-color: #4D5AE5;
+    background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-        
+    cursor: pointer;
+    
 }
 
 .button-primary .link:hover{
-    color: #FFFFFF;
     background-color: #404BBF;
-
 }
 
 .section-title {

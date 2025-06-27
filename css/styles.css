@@ -1,27 +1,23 @@
 body {
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
 
-.web {
+.logo {
     color: #4D5AE5;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
         
 }
 
 .studio {
     color: #2E2F42;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.16667;
-    font-family: "Raleway", sans-serif;
-    text-transform: uppercase;
-    
+     
 }
 
 .menu-nav .link {
@@ -29,6 +25,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em
         
 }
 

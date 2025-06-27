@@ -58,6 +58,7 @@ body {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
+    text-align: center;
         
 }
 
@@ -80,6 +81,7 @@ body {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
+    text-align: center;
         
 }
 
@@ -97,6 +99,7 @@ p {
     line-height: 1.5;
         
 }
+
 
 .card {
     background-color: #F4F4FD;

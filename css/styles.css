@@ -22,7 +22,7 @@ body {
     
 }
 
-.page-nav .link {
+.menu-nav .link {
     color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
@@ -30,11 +30,11 @@ body {
         
 }
 
-.page-nav .link:hover {
+.menu-nav .link:hover {
     color: #404BBF;
 }
 
-.page-nav .link:active {
+.menu-nav .link:active {
     color: #404BBF;
 }
 
@@ -61,7 +61,7 @@ body {
         
 }
 
-.button {
+.button-primary {
     color: #FFFFFF;
     background-color: #4D5AE5;
     font-weight: 500;
@@ -70,7 +70,7 @@ body {
         
 }
 
-.button:hover {
+.button-primary .link:hover{
     color: #FFFFFF;
     background-color: #404BBF;
 

@@ -3,3 +3,58 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+
+.page-nav .link {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+        
+}
+
+.page-nav .link:hover {
+    color: #404BBF;
+}
+
+.page-nav .link:active {
+    color: #404BBF;
+}
+
+.page-address {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+      
+}
+
+.page-address .link:hover {
+    color: #404BBF;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.page-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+        
+}
+
+.button {
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+        
+}
+
+.button:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+
+}
+

@@ -4,6 +4,24 @@ body {
     background-color: #FFFFFF;
 }
 
+.web {
+    color: #4D5AE5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    font-family: "Raleway", sans-serif;
+        
+}
+
+.studio {
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    font-family: "Raleway", sans-serif;
+    
+}
+
 .page-nav .link {
     color: #2E2F42;
     font-weight: 500;
@@ -91,4 +109,12 @@ p {
 
 .text-footer {
     color: #F4F4FD;
+}
+
+.studio-footer {
+    color: #F4F4FD;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667; 
+    font-family: "Raleway", sans-serif;
 }

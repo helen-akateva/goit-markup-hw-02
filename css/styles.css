@@ -38,15 +38,21 @@ body {
 }
 
 .page-address {
+    color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    font-style: normal;
+    letter-spacing: 0.02em
+    
       
 }
 
 .page-address .link:hover {
     color: #404BBF;
 }
+
+
 
 .hero {
     background-color: #2E2F42;
@@ -58,6 +64,8 @@ body {
     font-size: 56px;
     line-height: 1.07143;
     text-align: center;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
         
 }
 
@@ -68,10 +76,12 @@ body {
     font-size: 16px;
     line-height: 1.5;
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.04em;
     
 }
 
-.button:hover {
+.button:focus {
     background-color: #404BBF;
 }
 
@@ -79,12 +89,14 @@ body {
     color: #2E2F42;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
         
 }
 
-h3 {
+.title {
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
@@ -92,10 +104,15 @@ h3 {
         
 }
 
-p {
+.menu-card {
+    background-color: #FFFFFF
+}
+
+.text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
         
 }
 
@@ -119,7 +136,8 @@ p {
     color: #F4F4FD;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667; 
+    line-height: 1.17; 
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
+    letter-spacing: 0.02em;
 }

@@ -97,6 +97,10 @@ body {
     background-color: #404BBF;
 }
 
+.button .link:hover {
+    background-color: #404BBF
+}
+
 .section-title {
     color: #2E2F42;
     font-weight: 700;
